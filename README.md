@@ -1,7 +1,8 @@
-# ESA 2014 workshop on Data Visualization using R.
+# ESA 2015 workshop on an Introduction to R for Ecologists
 
-Welcome to the GitHub repository for the data visualization using R and
-ggplot workshop at ESA 2014.
+Welcome to the GitHub repository for the Introduction to R for
+Ecologists workshop to be held at ESA 2015 in Baltimore
+
 
 **Location and time:** 
 Saturday, August 8, 2015    
@@ -24,25 +25,6 @@ and [RStudio Desktop](http://www.rstudio.com/ide/download/) for your
 platform. Once installed, open RStudio and install the following
 packages. Simply paste these commands into your prompt. 
 
-### Installing packages
-
-```coffee
-install.packages("ggplot2", dependencies = TRUE)
-install.packages("plyr")
-install.packages("ggthemes")
-install.packages("reshape2")
-
-# the following packages are for the supplemental exercises only
-install.packages("gridExtra")
-install.packages("devtools")
-install.packages('cshapes')
-# Then a few packages to acquire data from the web to visualize
-install.packages("rfisheries")
-install.packages("rgbif")
-install.packages("taxize")
-# optional
-devtools::install_github("rWBclimate", "ropensci")
-```
 ### Downloading code/data from this repository  
 If you're already familiar with `Git`, then simply clone this repo. If
 you're not familiar with Git, simply hit the **Download ZIP** button on
@@ -51,15 +33,20 @@ download and unzip to your Desktop.
 
 * Please wait until Friday afternoon to this so you are able to
 download the latest changes. Otherwise do another git pull or replace
-your donwloaded copy with a newer one.*
+your downloaded copy with a newer one.*
 
 ![](how_to_clone.png)
 
-    If you're having any trouble with these steps please drop us an
-    [email](mailto:naupaka@gmail.com). We'll also strive to have local
-    copies if you forget to install any of these tools.
+If you're having any trouble with these steps please drop us an
+[email](mailto:naupaka@gmail.com). We'll also strive to have local
+copies if you forget to install any of these tools.
 
-See you Sunday!
+See you Saturday!
 
+---
 
+These materials are all based on those created by the [Data
+Carpentry](http://www.datacarpentry.org) organization and are Copyright (c)
+Data Carpentry. They are licensed under a Creative Commons Attribution
+license. See the `LICENSE.md` file for further details. 
 
