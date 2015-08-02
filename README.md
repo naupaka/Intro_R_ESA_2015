@@ -33,11 +33,10 @@ well-commented, well-structured code. We will introduce the RStudio
 software environment and point out the benefits of using it to
 facilitate script writing. All participants must bring their own laptop
 with R and RStudio (available free online for all platforms at
-        rstudio.com) pre-installed. All data files and code for this
-workshop will be made publicly available on github.com, so participants
-as well as those unable to attend will have access to them as
-a resource.
+        rstudio.com) pre-installed. 
+
 ---
+
 ## Pre workshop instructions
 
 ### Installing R  
