@@ -1,4 +1,5 @@
-# ESA 2015 workshop on an Introduction to R for Ecologists
+# An Introduction to R for Ecologists
+## Workshop to be held at ESA 2015 in Baltimore
 
 Welcome to the GitHub repository for the Introduction to R for
 Ecologists workshop to be held at ESA 2015 in Baltimore
