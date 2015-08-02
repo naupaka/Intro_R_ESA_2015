@@ -49,5 +49,7 @@ See you Saturday!
 These materials are all based on those created by the [Data
 Carpentry](http://www.datacarpentry.org) organization and are Copyright (c)
 Data Carpentry. They are licensed under a Creative Commons Attribution
-license. See the `LICENSE.md` file for further details. 
+license. See the `LICENSE.md` file for further details. You can access
+[the original repository
+here](https://github.com/datacarpentry/R-ecology). 
 
