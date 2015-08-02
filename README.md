@@ -16,7 +16,28 @@ MacDonald](http://www.zoology.ubc.ca/~macdonald/curious_interactions/), [Gavin
 Simpson](http://www.uregina.ca/science/biology/people/faculty-research/simpson-gavin/index.html), and [Noam Ross](http://www.noamross.net/).
 
 ---
-
+Many ecologists have started using the R statistical programming
+language to facilitate data analysis and visualization for their
+research. It is popular both because of its power and flexibility, but
+also because it makes it easier to produce analyses that are
+well-documented and reproducible. Plus, and perhaps best of all, it’s
+completely free! This workshop is meant for total beginners (of all
+        career stages), who may have heard of R but never used it
+themselves, or for those who have just started using R but want a more
+formal introduction to the programming environment and to some general
+best practices. We will cover loading data, calculating basic
+statistics, and making plots. We will also highlight best practices for
+scientific computing along the way, including how to set up a directory
+structure that makes sense for code-driven analyses and writing
+well-commented, well-structured code. We will introduce the RStudio
+software environment and point out the benefits of using it to
+facilitate script writing. All participants must bring their own laptop
+with R and RStudio (available free online for all platforms at
+        rstudio.com) pre-installed. All data files and code for this
+workshop will be made publicly available on github.com, so participants
+as well as those unable to attend will have access to them as
+a resource.
+---
 ## Pre workshop instructions
 
 ### Installing R  
