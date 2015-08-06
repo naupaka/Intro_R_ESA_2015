@@ -43,8 +43,7 @@ with R and RStudio (available free online for all platforms at
 If you don't already have R set up with a suitable code editor, we
 recommend downloading and installing [R](http://cran.cnr.berkeley.edu)
 and [RStudio Desktop](http://www.rstudio.com/ide/download/) for your
-platform. Once installed, open RStudio and install the following
-packages. Simply paste these commands into your prompt. 
+platform. Once installed, open RStudio check to make sure you are running the newest version of R (3.2.1) and that you don't get any error messages. 
 
 ### Downloading code/data from this repository  
 If you're already familiar with `Git`, then simply clone this repo. If
