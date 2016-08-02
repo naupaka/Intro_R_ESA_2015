@@ -1,19 +1,17 @@
 # An Introduction to R for Ecologists
-## Workshop to be held at ESA 2015 in Baltimore
+## Workshop to be held at ESA 2016 in Fort Lauderdale
 
 Welcome to the GitHub repository for the Introduction to R for
-Ecologists workshop to be held at ESA 2015 in Baltimore
+Ecologists workshop to be held at ESA 2016 in Fort Lauderdale
 
 
 **Location and time:** 
-Saturday, August 8, 2015    
+Saturday, 6 August 2015    
 8:00 AM - 11:30 AM    
-Location: 303, Baltimore Convention Center    
+Location: 203, Ft Lauderdale Convention Center  
 
 ## Organizers
-[Naupaka Zimmerman](http://naupaka.net), [Andrew
-MacDonald](http://www.zoology.ubc.ca/~macdonald/curious_interactions/), [Gavin
-Simpson](http://www.uregina.ca/science/biology/people/faculty-research/simpson-gavin/index.html), and [Noam Ross](http://www.noamross.net/).
+[Andrew MacDonald](http://www.zoology.ubc.ca/~macdonald/curious_interactions/), [Naupaka Zimmerman](http://naupaka.net), [Andrew Tredennick](atredennick.github.io ), and [Noam Ross](http://www.noamross.net/).
 
 ---
 Many ecologists have started using the R statistical programming
